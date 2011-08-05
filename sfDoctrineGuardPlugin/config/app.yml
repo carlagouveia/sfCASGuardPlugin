@@ -1,0 +1,6 @@
+all:
+  cas:
+    server_name: 'cas.example.com'
+    server_port: 443
+    server_path: 'cas'
+    server_cert: '/path/to/cachain.pem'
